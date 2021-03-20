@@ -10,7 +10,6 @@ on:
     - 'v*'
   #  branches: 
   #    - master
-  workflow_dispatch:
   schedule:
     - cron: '12 */1 * * *'
    
